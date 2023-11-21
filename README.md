@@ -12,11 +12,11 @@ but there will be NO LONGER UPDATES for this executer
 
 This is the official source from MYSELF! WeepingAngel is my Other Name bruh!
 
-Official Thread: https://cheater.fun/hacks_roblox/6634-project-x-executer-spoofer-force-undetection-custom-scripts.html
+- Official Thread: https://cheater.fun/hacks_roblox/6634-project-x-executer-spoofer-force-undetection-custom-scripts.html
 
-My Discord: https://www.discord.gg/u9QY9Vey2D
+- My Discord: https://www.discord.gg/u9QY9Vey2D
 
-Showcase (outdated): https://www.youtube.com/watch?v=X3AOUBOBLKQ
+- Showcase (outdated): https://www.youtube.com/watch?v=X3AOUBOBLKQ
 
 Features: 
 - Full Byfron Bypass
