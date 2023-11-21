@@ -1,0 +1,10 @@
+Step 1:
+- Close Roblox
+Step 2:
+- run unban.bat
+Step 3:
+- Restart PC
+Step 4:
+- Run Roblox
+Step 5 (Recommend but not needed):
+- Create a new account
