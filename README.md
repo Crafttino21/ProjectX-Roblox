@@ -35,7 +35,7 @@ Features:
 
 Planed:
 
-- Internel Menu
+~- Internel Menu~
 
 IMPORTANT:
 
