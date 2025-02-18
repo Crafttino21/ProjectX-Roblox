@@ -1,1 +1,0 @@
-loadstring(game:httpGet("https://raw.githubusercontent.com/Crafttino21/universal-esp/main/Swiss%20Knief.lua"))()
