@@ -1,16 +1,15 @@
-This is the full Source of my (now) outdated roblox Executer inclusive my Exlpoit API,
-My Bypass addentions and Spoofer shit
-
+# Project X Roblox Executor
+**Read Before you do anything**
+This is my Roblox Lua Executor, which I actually stopped in 2023 after 2 years of development and made open source. In the meantime, I have received some support and am starting to work on the project again. On February 17, 2025, the first update came out, which makes the executor fully functional again. Further updates will come in the foreseeable future. Unfortunately, due to legal and security reasons, I had to remove large parts of the old source code from the GitHub repo. The executor is currently being developed as a closed source project.
 **Why iI Leaked everything/make it Open-Source?**
 The reason is simple, Roblox is now working with SynapseX, which makes developing Roblox cheats
 much more complicated and I now want to stop creating Roblox cheats because the work for a free and
 ab-free executer is simply no longer worth it
 
-**Are there Updates planed?**
-Nope, i dont work on this Exploit anymore, If you want you can update it and make a pull-request
-but there will be NO LONGER UPDATES for this executer
+**WARNING FOR DANGEROUS FAKE UPLOADS!**
+I would like to issue another urgent warning about possible fake repos and releases. Even after Project X was actually discontinued, I saw that many people released old versions of the executor and infected them with malware such as stealers and RATs. Please make sure that the official uploads of Project X are ONLY published on my discord (link below), cheater.fun, or in this repo.
 
-This is the official source from MYSELF! WeepingAngel is my Other Name bruh!
+This is the Official Repo of Project X, WeepingAngel is my main name, Crafttino21 my old one.
 
 - Official Thread: https://cheater.fun/hacks_roblox/6634-project-x-executer-spoofer-force-undetection-custom-scripts.html
 
@@ -19,24 +18,7 @@ This is the official source from MYSELF! WeepingAngel is my Other Name bruh!
 - Showcase (outdated): https://www.youtube.com/watch?v=X3AOUBOBLKQ
 
 Features: 
-- Full Byfron Bypass
-
-- Lightweigth HUD
-
-- ScriptHUB
-
-- Roblox Detection Prevention Patches
-
-- FPS Unlocker
-
-- Toolbox
-
-- Externel menu (Beta)
-
-Planed:
-
-~- Internel Menu~
-
-IMPORTANT:
-
-You NEED roblox installed from the Microsoft Store (the Roblox UWP version), Did is Important tu Bypass Byfron!!
+- Level 6 Execution
+- ~87% UNC
+- Easy to Use
+- Bootstraper for Auto Updates
