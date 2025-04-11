@@ -14,7 +14,11 @@ This is the Official Repo of Project X, WeepingAngel is my main name, Crafttino2
 - **Showcase (outdated):** https://www.youtube.com/watch?v=X3AOUBOBLKQ
 
 Features: 
-- Level 6 Execution
-- ~87% UNC
-- Easy to Use
-- Bootstraper for Auto Updates
+- Level 7 Injection
+- ~95% UNC (based on updates)
+- Auto Update
+- Internal and External Injection
+- Powerfull hyperion Bypass
+- AI features
+- even more
+This list may be out to date. Check out my discord for the newest features and Update Notifications ^^
