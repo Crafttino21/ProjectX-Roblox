@@ -19,6 +19,6 @@ Features:
 - Auto Update
 - Internal and External Injection
 - Powerfull hyperion Bypass
-- AI features
+- HWID Spoofer
 - even more
 This list may be out to date. Check out my discord for the newest features and Update Notifications ^^
